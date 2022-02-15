@@ -1,0 +1,8 @@
+hu/desktop/gui/Helper.class
+hu/desktop/gui/Graphics.class
+hu/desktop/SceneManager.class
+hu/desktop/controller/StartPageController.class
+module-info.class
+hu/desktop/App.class
+hu/desktop/controller/BoardController.class
+hu/desktop/gui/Dialogs.class
